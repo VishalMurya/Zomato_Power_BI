@@ -1,4 +1,4 @@
-![[ Zomato Sales Analysis using Power BI ](https://github.com/VishalMurya/Amazom-Data-Analysis-/assets/146605505/c2a73c04-2d2f-4ab3-8a36-ea21f1383842)
+![image](https://github.com/VishalMurya/Amazom-Data-Analysis-/assets/146605505/c2a73c04-2d2f-4ab3-8a36-ea21f1383842)
 
 ### Project Overview
 ##### This project analyzes Zomato's sales data to uncover trends, patterns, and actionable insights to drive business decisions.
