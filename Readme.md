@@ -1,4 +1,5 @@
-# Zomato Sales Analysis using Power BI
+#[ Zomato Sales Analysis using Power BI ](https://media.licdn.com/dms/image/D4D22AQHwND9I7iKp5A/feedshare-shrink_800/0/1712747476691?e=1720051200&v=beta&t=XBHKdppldaG7zOptd4s-Ms0pmLcQbleaukXBA71CSg4)
+
 ### Project Overview
 ##### This project analyzes Zomato's sales data to uncover trends, patterns, and actionable insights to drive business decisions.
 
