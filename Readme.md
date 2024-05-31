@@ -13,9 +13,9 @@ Customer Segmentation
 Top Selling Items
 Delivery Times
 ## Insights and Findings
-Sales Trends: Identified seasonal peaks in sales.
-Customer Preferences: Popular cuisines identified.
-Geographical Insights: Highest sales in urban areas.
+1. Sales Trends: Identified seasonal peaks in sales.
+2. Customer Preferences: Popular cuisines identified.
+2. Geographical Insights: Highest sales in urban areas.
 Operational Efficiency: Delivery times optimized in certain regions.
 ### Visualizations
 Bar charts
