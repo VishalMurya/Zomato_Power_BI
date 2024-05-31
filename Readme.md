@@ -3,15 +3,15 @@
 ##### This project analyzes Zomato's sales data to uncover trends, patterns, and actionable insights to drive business decisions.
 
 ### Data Source
-Source: Zomato API
-Dataset Description: Includes order details, customer demographics, restaurant information, and delivery times.
-Key Metrics and KPIs
-Total Sales
-Number of Orders
-Average Order Value
-Customer Segmentation
-Top Selling Items
-Delivery Times
+* Source: Zomato API
+* Dataset Description: Includes order details, customer demographics, restaurant information, and delivery times.
+* Key Metrics and KPIs
+* Total Sales
+* Number of Orders
+* Average Order Value
+* Customer Segmentation
+* Top Selling Items
+* Delivery Times
 ## Insights and Findings
 1. Sales Trends: Identified seasonal peaks in sales.
 2. Customer Preferences: Popular cuisines identified.
