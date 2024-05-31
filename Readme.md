@@ -1,4 +1,4 @@
-![image](https://github.com/VishalMurya/Amazom-Data-Analysis-/assets/146605505/c2a73c04-2d2f-4ab3-8a36-ea21f1383842)
+![image](https://media.licdn.com/dms/image/D4D22AQHwND9I7iKp5A/feedshare-shrink_1280/0/1712747476691?e=1720051200&v=beta&t=YMCyasve7McvIHEF5w841IysiWY83OLE4RDVTrvRkhU)
 
 ### Project Overview
 ##### This project analyzes Zomato's sales data to uncover trends, patterns, and actionable insights to drive business decisions.
